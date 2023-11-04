@@ -1,3 +1,5 @@
+# Automating AWS Instance Termination script using python
+
 import boto3
 
 # Replace these with your AWS access key and secret key
